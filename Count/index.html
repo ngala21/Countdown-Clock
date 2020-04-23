@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NGALA | PORTFOLIO</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+
+  <script type="text/javascript">
+    var countDownDate = new Date("May 20, 2020 00:00:00").getTime();
+    var x = setInterval(function(){
+    var now = new Date().getTime();
+
+    var distance = countDownDate - now;
+
+    var days = Math.floor(distance/ (1000 * 60 * 60 * 24));
+    var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+    var minutes = Math.floor((distance % (1000* 60 * 60)) / (1000 * 60));
+    var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+
+    document.getElementById("days").innerHTML = days;
+    document.getElementById("hours").innerHTML = hours;
+    document.getElementById("minutes").innerHTML = minutes;
+    document.getElementById("seconds").innerHTML = seconds;
+
+    })
+
+    function newTime(){
+      var now = newDate().getTime();
+      gap = countDate - now;
+
+      var second = 1000;
+      var minute = second * 60;
+      var hours = minute * 60;
+      var day = hour * 24;
+
+    var d = Math.floor(gap / (day));
+    var h = Math.floor((gap % (day)) / (hour));
+    var m = Math.floor((gap % (hours)) / (minute));
+    var s = math.floor((gap % (minute)) / second);
+
+    document.getElementById('days').innerText = d;
+    document.getElementById('hours').innerText = h;
+    document.getElementById('minutes').innerText = m;
+    document.getElementById('seconds').innerText = s;
+
+    }
+
+    </script> 
+</head>
+<body>
+  <header>
+    <h1>Portfolio Coming Soon...</h1>
+  </header>
+    <br>
+    <br>
+    <div class="count">
+      <div class="countd">
+        <span id="days">00</span>
+        DAYS
+      </div>
+      <div class="countd">
+        <span id="hours">00</span>
+        HOURS
+      </div>
+      <div class="countd">
+        <span id="minutes">00</span>
+        MINUTES
+      </div>
+      <div class="countd">
+        <span id="seconds">00</span>
+        SECONDS
+      </div>
+    </div>
+
+    <div class="bottom">
+        <div class="social text-center">
+            <a class="social-icon" href="https://api.whatsapp.com/send?phone=254778679193" data-toggle="tooltip" data-placement="bottom" title="WhatsApp Messenger"><i class="fa fa-whatsapp fa-2x"></i></a>
+            <a class="social-icon" href="https://www.facebook.com/aiden.ngala" data-toggle="tooltip" data-placement="bottom" title="Facebook"><i class="fa fa-facebook fa-2x"></i></a>
+            <a class="social-icon" href="https://twitter.com/__ngala?s=09" data-toggle="tooltip" data-placement="bottom" title="Twitter"><i class="fa fa-twitter fa-2x"></i></a>
+            <a class="social-icon" href="https://www.instagram.com/_.ngala._/" data-toggle="tooltip" data-placement="bottom" title="Instagram"><i class="fa fa-instagram fa-2x"></i></a>
+            <a class="social-icon" href="https://github.com/ngala21" data-toggle="tooltip" data-placement="bottom" title="Github"><i class="fa fa-github fa-2x"></i></a>
+            <a class="social-icon" href="https://www.linkedin.com/in/ngala-mike-34775118a" data-toggle="tooltip" data-placement="bottom" title="Linkedin"><i class="fa fa-linkedin fa-2x"></i></a>
+            <a class="social-icon" href="mailto:ngalamike21@gmail.com" data-toggle="tooltip" data-placement="bottom" title="Mail"><i class="fa fa-envelope fa-2x"></i></a>
+
+            </div>
+            <br>
+<br>
+<br>
+<br>
+<br>
+    <footer class="footer">
+        <p> Copyright &copy; 2020 | All Rights Reserved | Ngala Mike </p>
+    </footer>
+    
+
+</body>
+</html>

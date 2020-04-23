@@ -1,0 +1,91 @@
+body{
+    text-align: center;
+    background: rgb(221, 222, 135);
+  font-family: sans-serif;
+  font-weight: 100;
+}
+
+header{
+    position: relative;
+    max-width: 900;
+    margin: 10px 30px;
+    padding: 20px;
+    background: #fff;
+    box-sizing: border-box;
+}
+
+h1{
+  color: rgb(10, 4, 4);
+  font-weight: 100;
+  font-size: 40px;
+  margin: 40px 0px 20px;
+}
+
+.count{
+    margin: 40px 0;
+}
+
+.countd{
+    display: inline-block;
+    width: 80px;
+    height: 80px;
+    border: 2px solid;
+    margin: 0 30px;
+    font-size: 12px;
+    border-radius: 50%;
+    overflow: hidden;
+}
+
+.countd span{
+    display: block;
+    font-size: 26px;
+    margin-top: 14px;
+}
+
+.bottom{
+    -moz-box-shadow: 10px 1px 15px rgba(68,68,68,0.6);
+  -webkit-box-shadow: 15px 15px 15px rgba(68,68,68,0.6);
+  box-shadow: 15px 15px 15px rgba(68,68,68,0.6);
+
+  filter: progid:DXImageTransform.Microsoft.Blur(PixelRadius=3,MakeShadow=true,ShadowOpacity=0.30);
+  -ms-filter: "progid:DXImageTransform.Microsoft.Blur(PixelRadius=3,MakeShadow=true,ShadowOpacity=0.30)";
+  zoom: 1;
+  height: 200px;
+  background-color: #ffffff;
+  color: #000000;
+  margin-left: 30px;
+  margin-right: 30px;
+  margin-top: 50px;
+   
+}
+
+.social{
+    color: black;
+    padding-bottom: 10px;
+    padding-top: 60px;
+}
+.footer p{
+    font-size: 12px;
+}
+
+.fa{
+    color: #737373;
+    padding: 10px;
+}
+.fa:hover{
+    color: black;
+}
+
+.footer{
+    padding: 20px;
+    font-size: 2rem;
+}
+
+.footer a{
+    color: #000000;
+    text-decoration: none;
+}
+.footer a:hover{
+    color: #737373;
+    background-color: black;
+}
