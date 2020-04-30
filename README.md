@@ -13,7 +13,7 @@ A sample image.
 ## Setup/Installation Requirements
 - Open your terminal.
 - Initialize git on your terminal.
-- git clone <https://github.com/ngala21/my-first.git>.
+- git clone <https://github.com/ngala21/The-Countdown-2020.git>.
 - open '' folder.
 - Run it on a browser preferably Chrome.
 
