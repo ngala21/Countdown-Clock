@@ -14,7 +14,7 @@ A sample image.
 - Open your terminal.
 - Initialize git on your terminal.
 - git clone <https://github.com/ngala21/The-Countdown-2020.git>.
-- open '' folder.
+- open 'Count' folder.
 - Run it on a browser preferably Chrome.
 
 
