@@ -6,7 +6,7 @@ This is a sample responsive timer set to display a countdown clock between the c
 ![screenshot](Count/Screenshot.png)
 
 
-## Setup/Installation Requirements
+## Setup/Getting Started
 - Open your terminal.
 - Initialize git on your terminal.
 - git clone <https://github.com/ngala21/Countdown-Clock.git>.
@@ -24,6 +24,10 @@ This is a sample responsive timer set to display a countdown clock between the c
 ## Support and contact details
 
          In case of any issues please do contact ngalamike21@gmail.com
+         
+## Authors
+
+* **Ngala Mike** - *Initial work* - [ngala21](https://github.com/ngala21)
          
 ### License
 
