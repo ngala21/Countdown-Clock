@@ -4,7 +4,7 @@
 #### By **Ngala Mike**
 
 ## Description
-A sample responsive countdown timer created to display time left between the current date and set date. 
+A sample responsive countdown timer created to display time left between the current date 4/05/2020 and set date 4/06/2020. 
 
 A sample image.
 [screenshot](Screenshot.png)
