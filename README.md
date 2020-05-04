@@ -13,7 +13,7 @@ A sample image.
 ## Setup/Installation Requirements
 - Open your terminal.
 - Initialize git on your terminal.
-- git clone <https://github.com/ngala21/The-Countdown-2020.git>.
+- git clone <https://github.com/ngala21/Countdown-Clock.git>.
 - open 'Count' folder.
 - Run it on a browser preferably Chrome.
 
