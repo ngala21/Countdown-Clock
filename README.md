@@ -1,4 +1,4 @@
-# The-Countdown-2020
+# Countdown Clock
 #### version one
 
 #### By **Ngala Mike**
