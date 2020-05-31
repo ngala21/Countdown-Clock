@@ -16,8 +16,8 @@ This is a sample responsive timer set to display a countdown clock between the c
 
 
 ## Technologies Used
-- HTML
-- CSS
+- HTML5
+- CSS3
 - Vanilla JS
 - Bootstrap
 
